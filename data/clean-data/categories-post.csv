@@ -1,73 +1,72 @@
 ,Category,Sub-category,Keyword,Search Vol (min),Search Vol (max),Number of templates
-0,Video,Facebook Video,Facebook Video template,100,1000,145
-1,Social Media,Facebook Video,Facebook Video template,10,100,145
-2,Video,Social Feed Video Ad,Social Feed Video Ad template,10,100,159
-3,Video,Pinterest Video Pin,Pinterest Video Pin template,10,100,21
-4,Video,In-Stream Video Ad,In-Stream Video Ad template,10,100,149
-5,Video,Youtube Intro,Youtube Intro template,1000,10000,126
-6,Video,Video Collage,Video Collage template,10,100,340
-7,Video,Slideshow Video,Slideshow Video template,100,1000,100
-8,Social Media,Animated Social Media,Animated Social Media template,10,100,207
-9,Social Media,Instagram Post,Instagram Post template,10000,100000,3100
-10,Social Media,Instagram Story,Instagram Story template,10000,100000,1746
-11,Social Media,Facebook Post,Facebook Post template,1000,10000,2214
-12,Social Media,Facebook Story,Facebook Story template,100,1000,1745
-13,Social Media,Facebook Cover,Facebook Cover template,1000,10000,1402
-14,Social Media,Facebook App Ad,Facebook App Ad template,10,100,1417
-15,Social Media,Social Media,Social Media template,1000,10000,3100
-16,Social Media,Your Story,Your Story template,10,100,1762
-17,Social Media,Whatsapp Story,Whatsapp Story template,10,100,1743
-18,Documents,Presentation,Presentation template,10000,100000,1000
-19,Documents,A4 Document,A4 Document template,10,100,3100
-20,Documents,Letter,Letter template,10000,100000,886
-21,Documents,Letterhead,Letterhead template,10000,100000,886
-22,Documents,Resume,Resume template,100000,1000000,1483
-23,Documents,Presentation (4:3),Presentation (4:3) template,10,100,1146
-24,Documents,Report,Report template,10000,100000,1273
-25,Documents,Daily Report,Daily Report template,1000,10000,98
-26,Documents,Memo,Memo template,10000,100000,426
-27,Documents,Invoice,Invoice template,10000,100000,167
-28,Personal,Card,Card template,10000,100000,3100
-29,Personal,Birthday Card,Birthday Card template,10000,100000,679
-30,Personal,Photo Collage,Photo Collage template,1000,10000,3100
-31,Personal,Photo Book,Photo Book template,1000,10000,22
-32,Personal,Calendar,Calendar template,10000,100000,184
-33,Personal,Planner,Planner template,10000,100000,487
-34,Personal,Storyboard,Storyboard template,10000,100000,26
-35,Personal,Graphic Organiser,Graphic Organiser template,100,1000,937
-36,Personal,Scrapbook,Scrapbook template,1000,10000,29
-37,Personal,Desktop Wallpaper,Desktop Wallpaper template,10,100,529
-38,Personal,Postcard,Postcard template,10000,100000,1294
-39,Education,Yearbook,Yearbook template,1000,10000,178
-40,Education,Class Schedule,Class Schedule template,1000,10000,711
-41,Education,Worksheet,Worksheet template,1000,10000,696
-42,Education,Lesson Plan,Lesson Plan template,10000,100000,1198
-43,Education,Report Card,Report Card template,1000,10000,1843
-44,Education,Bookmark,Bookmark template,10000,100000,223
-45,Education,Seating Chart,Seating Chart template,1000,10000,477
-46,Education,Table of Contents,Table of Contents template,10000,100000,3100
-47,Education,Mind Map,Mind Map template,10000,100000,30
-48,Marketing,Logo,Logo template,10000,100000,1383
-49,Marketing,Poster,Poster template,10000,100000,3100
-50,Marketing,Flyer,Flyer template,10000,100000,2494
-51,Marketing,Business Card,Business Card template,10000,100000,3100
-52,Marketing,Infographic,Infographic template,10000,100000,100
-53,Marketing,Brochure,Brochure template,10000,100000,891
-54,Marketing,Product Label,Product Label template,1000,10000,43
-55,Marketing,Gift Certificate,Gift Certificate template,10000,100000,833
-56,Marketing,Gift Tag,Gift Tag template,10000,100000,90
-57,Marketing,Ticket,Ticket template,10000,100000,322
-58,Marketing,Newsletter,Newsletter template,10000,100000,713
-59,Events,Invitation,Invitation template,10000,100000,3100
-60,Events,Birthday Invitation,Birthday Invitation template,10000,100000,957
-61,Events,Wedding Invitation (Portrait),Wedding Invitation (Portrait) template,10000,100000,522
-62,Events,Announcement,Announcement template,1000,10000,1122
-63,Events,Programme,Programme template,1000,10000,783
-64,Events,Event Programme,Event Programme template,1000,10000,240
-65,Events,Facebook Event Cover,Facebook Event Cover template,100,1000,1438
-66,Ads,Facebook Ad,Facebook Ad template,1000,10000,317
-67,Ads,Instagram Ad,Instagram Ad template,1000,10000,111
-68,Ads,Large Rectangle Ad,Large Rectangle Ad template,10,100,650
-69,Ads,Leaderboard Ad,Leaderboard Ad template,10,100,44
-70,Ads,Wide Skyscraper Ad,Wide Skyscraper Ad template,10,100,120
-71,Ads,Medium Rectangle Ad,Medium Rectangle Ad template,10,100,625
+0,Video,Facebook Video,Facebook Video template,23.076923076923077,230.76923076923077,145
+1,Video,Social Feed Video Ad,Social Feed Video Ad template,2.3076923076923075,23.076923076923077,159
+2,Video,Pinterest Video Pin,Pinterest Video Pin template,2.3076923076923075,23.076923076923077,21
+3,Video,In-Stream Video Ad,In-Stream Video Ad template,2.3076923076923075,23.076923076923077,149
+4,Video,Youtube Intro,Youtube Intro template,230.76923076923077,2307.6923076923076,126
+5,Video,Video Collage,Video Collage template,2.3076923076923075,23.076923076923077,340
+6,Video,Slideshow Video,Slideshow Video template,23.076923076923077,230.76923076923077,100
+7,Social Media,Animated Social Media,Animated Social Media template,2.3076923076923075,23.076923076923077,207
+8,Social Media,Instagram Post,Instagram Post template,2307.6923076923076,23076.923076923078,3100
+9,Social Media,Instagram Story,Instagram Story template,2307.6923076923076,23076.923076923078,1746
+10,Social Media,Facebook Post,Facebook Post template,230.76923076923077,2307.6923076923076,2214
+11,Social Media,Facebook Story,Facebook Story template,23.076923076923077,230.76923076923077,1745
+12,Social Media,Facebook Cover,Facebook Cover template,230.76923076923077,2307.6923076923076,1402
+13,Social Media,Facebook App Ad,Facebook App Ad template,2.3076923076923075,23.076923076923077,1417
+14,Social Media,Social Media,Social Media template,230.76923076923077,2307.6923076923076,3100
+15,Social Media,Your Story,Your Story template,2.3076923076923075,23.076923076923077,1762
+16,Social Media,Whatsapp Story,Whatsapp Story template,2.3076923076923075,23.076923076923077,1743
+17,Documents,Presentation,Presentation template,2307.6923076923076,23076.923076923078,1000
+18,Documents,A4 Document,A4 Document template,2.3076923076923075,23.076923076923077,3100
+19,Documents,Letter,Letter template,2307.6923076923076,23076.923076923078,886
+20,Documents,Letterhead,Letterhead template,2307.6923076923076,23076.923076923078,886
+21,Documents,Resume,Resume template,23076.923076923078,230769.23076923078,1483
+22,Documents,Presentation (4:3),Presentation (4:3) template,2.3076923076923075,23.076923076923077,1146
+23,Documents,Report,Report template,2307.6923076923076,23076.923076923078,1273
+24,Documents,Daily Report,Daily Report template,230.76923076923077,2307.6923076923076,98
+25,Documents,Memo,Memo template,2307.6923076923076,23076.923076923078,426
+26,Documents,Invoice,Invoice template,2307.6923076923076,23076.923076923078,167
+27,Personal,Card,Card template,2307.6923076923076,23076.923076923078,3100
+28,Personal,Birthday Card,Birthday Card template,2307.6923076923076,23076.923076923078,679
+29,Personal,Photo Collage,Photo Collage template,230.76923076923077,2307.6923076923076,3100
+30,Personal,Photo Book,Photo Book template,230.76923076923077,2307.6923076923076,22
+31,Personal,Calendar,Calendar template,2307.6923076923076,23076.923076923078,184
+32,Personal,Planner,Planner template,2307.6923076923076,23076.923076923078,487
+33,Personal,Storyboard,Storyboard template,2307.6923076923076,23076.923076923078,26
+34,Personal,Graphic Organiser,Graphic Organiser template,23.076923076923077,230.76923076923077,937
+35,Personal,Scrapbook,Scrapbook template,230.76923076923077,2307.6923076923076,29
+36,Personal,Desktop Wallpaper,Desktop Wallpaper template,2.3076923076923075,23.076923076923077,529
+37,Personal,Postcard,Postcard template,2307.6923076923076,23076.923076923078,1294
+38,Education,Yearbook,Yearbook template,230.76923076923077,2307.6923076923076,178
+39,Education,Class Schedule,Class Schedule template,230.76923076923077,2307.6923076923076,711
+40,Education,Worksheet,Worksheet template,230.76923076923077,2307.6923076923076,696
+41,Education,Lesson Plan,Lesson Plan template,2307.6923076923076,23076.923076923078,1198
+42,Education,Report Card,Report Card template,230.76923076923077,2307.6923076923076,1843
+43,Education,Bookmark,Bookmark template,2307.6923076923076,23076.923076923078,223
+44,Education,Seating Chart,Seating Chart template,230.76923076923077,2307.6923076923076,477
+45,Education,Table of Contents,Table of Contents template,2307.6923076923076,23076.923076923078,3100
+46,Education,Mind Map,Mind Map template,2307.6923076923076,23076.923076923078,30
+47,Marketing,Logo,Logo template,2307.6923076923076,23076.923076923078,1383
+48,Marketing,Poster,Poster template,2307.6923076923076,23076.923076923078,3100
+49,Marketing,Flyer,Flyer template,2307.6923076923076,23076.923076923078,2494
+50,Marketing,Business Card,Business Card template,2307.6923076923076,23076.923076923078,3100
+51,Marketing,Infographic,Infographic template,2307.6923076923076,23076.923076923078,100
+52,Marketing,Brochure,Brochure template,2307.6923076923076,23076.923076923078,891
+53,Marketing,Product Label,Product Label template,230.76923076923077,2307.6923076923076,43
+54,Marketing,Gift Certificate,Gift Certificate template,2307.6923076923076,23076.923076923078,833
+55,Marketing,Gift Tag,Gift Tag template,2307.6923076923076,23076.923076923078,90
+56,Marketing,Ticket,Ticket template,2307.6923076923076,23076.923076923078,322
+57,Marketing,Newsletter,Newsletter template,2307.6923076923076,23076.923076923078,713
+58,Events,Invitation,Invitation template,2307.6923076923076,23076.923076923078,3100
+59,Events,Birthday Invitation,Birthday Invitation template,2307.6923076923076,23076.923076923078,957
+60,Events,Wedding Invitation (Portrait),Wedding Invitation (Portrait) template,2307.6923076923076,23076.923076923078,522
+61,Events,Announcement,Announcement template,230.76923076923077,2307.6923076923076,1122
+62,Events,Programme,Programme template,230.76923076923077,2307.6923076923076,783
+63,Events,Event Programme,Event Programme template,230.76923076923077,2307.6923076923076,240
+64,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438
+65,Ads,Facebook Ad,Facebook Ad template,230.76923076923077,2307.6923076923076,317
+66,Ads,Instagram Ad,Instagram Ad template,230.76923076923077,2307.6923076923076,111
+67,Ads,Large Rectangle Ad,Large Rectangle Ad template,2.3076923076923075,23.076923076923077,650
+68,Ads,Leaderboard Ad,Leaderboard Ad template,2.3076923076923075,23.076923076923077,44
+69,Ads,Wide Skyscraper Ad,Wide Skyscraper Ad template,2.3076923076923075,23.076923076923077,120
+70,Ads,Medium Rectangle Ad,Medium Rectangle Ad template,2.3076923076923075,23.076923076923077,625

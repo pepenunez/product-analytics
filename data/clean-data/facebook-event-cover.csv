@@ -1,262 +1,262 @@
-,Date,Trend,isPartial
-0,2015-07-12,0,False
-1,2015-07-19,56,False
-2,2015-07-26,0,False
-3,2015-08-02,55,False
-4,2015-08-09,0,False
-5,2015-08-16,55,False
-6,2015-08-23,0,False
-7,2015-08-30,54,False
-8,2015-09-06,53,False
-9,2015-09-13,0,False
-10,2015-09-20,0,False
-11,2015-09-27,0,False
-12,2015-10-04,0,False
-13,2015-10-11,52,False
-14,2015-10-18,52,False
-15,2015-10-25,51,False
-16,2015-11-01,51,False
-17,2015-11-08,0,False
-18,2015-11-15,51,False
-19,2015-11-22,0,False
-20,2015-11-29,0,False
-21,2015-12-06,51,False
-22,2015-12-13,0,False
-23,2015-12-20,0,False
-24,2015-12-27,0,False
-25,2016-01-03,55,False
-26,2016-01-10,0,False
-27,2016-01-17,54,False
-28,2016-01-24,53,False
-29,2016-01-31,54,False
-30,2016-02-07,54,False
-31,2016-02-14,53,False
-32,2016-02-21,53,False
-33,2016-02-28,78,False
-34,2016-03-06,0,False
-35,2016-03-13,0,False
-36,2016-03-20,54,False
-37,2016-03-27,54,False
-38,2016-04-03,53,False
-39,2016-04-10,0,False
-40,2016-04-17,53,False
-41,2016-04-24,53,False
-42,2016-05-01,55,False
-43,2016-05-08,0,False
-44,2016-05-15,54,False
-45,2016-05-22,55,False
-46,2016-05-29,55,False
-47,2016-06-05,0,False
-48,2016-06-12,0,False
-49,2016-06-19,0,False
-50,2016-06-26,0,False
-51,2016-07-03,0,False
-52,2016-07-10,57,False
-53,2016-07-17,58,False
-54,2016-07-24,58,False
-55,2016-07-31,0,False
-56,2016-08-07,0,False
-57,2016-08-14,61,False
-58,2016-08-21,0,False
-59,2016-08-28,56,False
-60,2016-09-04,56,False
-61,2016-09-11,56,False
-62,2016-09-18,0,False
-63,2016-09-25,0,False
-64,2016-10-02,54,False
-65,2016-10-09,55,False
-66,2016-10-16,0,False
-67,2016-10-23,0,False
-68,2016-10-30,0,False
-69,2016-11-06,53,False
-70,2016-11-13,0,False
-71,2016-11-20,0,False
-72,2016-11-27,0,False
-73,2016-12-04,0,False
-74,2016-12-11,0,False
-75,2016-12-18,0,False
-76,2016-12-25,0,False
-77,2017-01-01,80,False
-78,2017-01-08,50,False
-79,2017-01-15,50,False
-80,2017-01-22,50,False
-81,2017-01-29,0,False
-82,2017-02-05,49,False
-83,2017-02-12,0,False
-84,2017-02-19,0,False
-85,2017-02-26,0,False
-86,2017-03-05,71,False
-87,2017-03-12,48,False
-88,2017-03-19,49,False
-89,2017-03-26,0,False
-90,2017-04-02,49,False
-91,2017-04-09,51,False
-92,2017-04-16,50,False
-93,2017-04-23,0,False
-94,2017-04-30,50,False
-95,2017-05-07,49,False
-96,2017-05-14,0,False
-97,2017-05-21,0,False
-98,2017-05-28,0,False
-99,2017-06-04,0,False
-100,2017-06-11,53,False
-101,2017-06-18,0,False
-102,2017-06-25,0,False
-103,2017-07-02,55,False
-104,2017-07-09,0,False
-105,2017-07-16,53,False
-106,2017-07-23,53,False
-107,2017-07-30,51,False
-108,2017-08-06,51,False
-109,2017-08-13,52,False
-110,2017-08-20,0,False
-111,2017-08-27,69,False
-112,2017-09-03,51,False
-113,2017-09-10,50,False
-114,2017-09-17,100,False
-115,2017-09-24,50,False
-116,2017-10-01,75,False
-117,2017-10-08,0,False
-118,2017-10-15,0,False
-119,2017-10-22,49,False
-120,2017-10-29,50,False
-121,2017-11-05,0,False
-122,2017-11-12,0,False
-123,2017-11-19,49,False
-124,2017-11-26,48,False
-125,2017-12-03,0,False
-126,2017-12-10,48,False
-127,2017-12-17,0,False
-128,2017-12-24,54,False
-129,2017-12-31,51,False
-130,2018-01-07,47,False
-131,2018-01-14,47,False
-132,2018-01-21,46,False
-133,2018-01-28,0,False
-134,2018-02-04,0,False
-135,2018-02-11,47,False
-136,2018-02-18,46,False
-137,2018-02-25,0,False
-138,2018-03-04,0,False
-139,2018-03-11,46,False
-140,2018-03-18,46,False
-141,2018-03-25,48,False
-142,2018-04-01,48,False
-143,2018-04-08,0,False
-144,2018-04-15,47,False
-145,2018-04-22,0,False
-146,2018-04-29,48,False
-147,2018-05-06,0,False
-148,2018-05-13,0,False
-149,2018-05-20,0,False
-150,2018-05-27,0,False
-151,2018-06-03,0,False
-152,2018-06-10,46,False
-153,2018-06-17,47,False
-154,2018-06-24,0,False
-155,2018-07-01,0,False
-156,2018-07-08,0,False
-157,2018-07-15,0,False
-158,2018-07-22,0,False
-159,2018-07-29,0,False
-160,2018-08-05,46,False
-161,2018-08-12,0,False
-162,2018-08-19,48,False
-163,2018-08-26,0,False
-164,2018-09-02,46,False
-165,2018-09-09,0,False
-166,2018-09-16,46,False
-167,2018-09-23,46,False
-168,2018-09-30,69,False
-169,2018-10-07,46,False
-170,2018-10-14,0,False
-171,2018-10-21,46,False
-172,2018-10-28,0,False
-173,2018-11-04,0,False
-174,2018-11-11,46,False
-175,2018-11-18,0,False
-176,2018-11-25,45,False
-177,2018-12-02,0,False
-178,2018-12-09,46,False
-179,2018-12-16,0,False
-180,2018-12-23,0,False
-181,2018-12-30,0,False
-182,2019-01-06,0,False
-183,2019-01-13,45,False
-184,2019-01-20,45,False
-185,2019-01-27,45,False
-186,2019-02-03,0,False
-187,2019-02-10,0,False
-188,2019-02-17,0,False
-189,2019-02-24,44,False
-190,2019-03-03,0,False
-191,2019-03-10,0,False
-192,2019-03-17,45,False
-193,2019-03-24,45,False
-194,2019-03-31,46,False
-195,2019-04-07,45,False
-196,2019-04-14,0,False
-197,2019-04-21,0,False
-198,2019-04-28,46,False
-199,2019-05-05,0,False
-200,2019-05-12,46,False
-201,2019-05-19,45,False
-202,2019-05-26,0,False
-203,2019-06-02,44,False
-204,2019-06-09,45,False
-205,2019-06-16,0,False
-206,2019-06-23,0,False
-207,2019-06-30,45,False
-208,2019-07-07,45,False
-209,2019-07-14,0,False
-210,2019-07-21,0,False
-211,2019-07-28,0,False
-212,2019-08-04,47,False
-213,2019-08-11,46,False
-214,2019-08-18,68,False
-215,2019-08-25,0,False
-216,2019-09-01,0,False
-217,2019-09-08,0,False
-218,2019-09-15,0,False
-219,2019-09-22,43,False
-220,2019-09-29,43,False
-221,2019-10-06,43,False
-222,2019-10-13,43,False
-223,2019-10-20,42,False
-224,2019-10-27,0,False
-225,2019-11-03,42,False
-226,2019-11-10,42,False
-227,2019-11-17,0,False
-228,2019-11-24,42,False
-229,2019-12-01,0,False
-230,2019-12-08,0,False
-231,2019-12-15,0,False
-232,2019-12-22,0,False
-233,2019-12-29,0,False
-234,2020-01-05,42,False
-235,2020-01-12,40,False
-236,2020-01-19,42,False
-237,2020-01-26,0,False
-238,2020-02-02,41,False
-239,2020-02-09,0,False
-240,2020-02-16,0,False
-241,2020-02-23,59,False
-242,2020-03-01,39,False
-243,2020-03-08,0,False
-244,2020-03-15,0,False
-245,2020-03-22,37,False
-246,2020-03-29,36,False
-247,2020-04-05,37,False
-248,2020-04-12,0,False
-249,2020-04-19,0,False
-250,2020-04-26,0,False
-251,2020-05-03,0,False
-252,2020-05-10,0,False
-253,2020-05-17,37,False
-254,2020-05-24,0,False
-255,2020-05-31,36,False
-256,2020-06-07,37,False
-257,2020-06-14,0,False
-258,2020-06-21,38,False
-259,2020-06-28,0,False
-260,2020-07-05,0,True
+,Date,Trend,isPartial,Category,Sub-category,Keyword,Search Vol (min),Search Vol (max),Number of templates,Search Vol (avge),Search Vol
+0,2015-07-12,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+1,2015-07-19,52,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,53.56
+2,2015-07-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+3,2015-08-02,51,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,52.53
+4,2015-08-09,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+5,2015-08-16,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+6,2015-08-23,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+7,2015-08-30,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+8,2015-09-06,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+9,2015-09-13,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+10,2015-09-20,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+11,2015-09-27,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+12,2015-10-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+13,2015-10-11,48,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,49.44
+14,2015-10-18,48,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,49.44
+15,2015-10-25,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+16,2015-11-01,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+17,2015-11-08,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+18,2015-11-15,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+19,2015-11-22,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+20,2015-11-29,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+21,2015-12-06,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+22,2015-12-13,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+23,2015-12-20,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+24,2015-12-27,54,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,55.62
+25,2016-01-03,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+26,2016-01-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+27,2016-01-17,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+28,2016-01-24,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+29,2016-01-31,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+30,2016-02-07,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+31,2016-02-14,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+32,2016-02-21,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+33,2016-02-28,48,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,49.44
+34,2016-03-06,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+35,2016-03-13,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+36,2016-03-20,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+37,2016-03-27,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+38,2016-04-03,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+39,2016-04-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+40,2016-04-17,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+41,2016-04-24,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+42,2016-05-01,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+43,2016-05-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+44,2016-05-15,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+45,2016-05-22,51,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,52.53
+46,2016-05-29,51,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,52.53
+47,2016-06-05,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+48,2016-06-12,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+49,2016-06-19,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+50,2016-06-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+51,2016-07-03,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+52,2016-07-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+53,2016-07-17,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+54,2016-07-24,54,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,55.62
+55,2016-07-31,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+56,2016-08-07,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+57,2016-08-14,56,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,57.68
+58,2016-08-21,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+59,2016-08-28,52,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,53.56
+60,2016-09-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+61,2016-09-11,52,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,53.56
+62,2016-09-18,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+63,2016-09-25,100,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,103.0
+64,2016-10-02,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+65,2016-10-09,51,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,52.53
+66,2016-10-16,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+67,2016-10-23,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+68,2016-10-30,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+69,2016-11-06,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+70,2016-11-13,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+71,2016-11-20,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+72,2016-11-27,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+73,2016-12-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+74,2016-12-11,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+75,2016-12-18,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+76,2016-12-25,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+77,2017-01-01,74,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,76.22
+78,2017-01-08,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+79,2017-01-15,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+80,2017-01-22,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+81,2017-01-29,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+82,2017-02-05,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+83,2017-02-12,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+84,2017-02-19,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+85,2017-02-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+86,2017-03-05,88,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,90.64
+87,2017-03-12,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+88,2017-03-19,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+89,2017-03-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+90,2017-04-02,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+91,2017-04-09,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+92,2017-04-16,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+93,2017-04-23,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+94,2017-04-30,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+95,2017-05-07,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+96,2017-05-14,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+97,2017-05-21,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+98,2017-05-28,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+99,2017-06-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+100,2017-06-11,48,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,49.44
+101,2017-06-18,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+102,2017-06-25,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+103,2017-07-02,50,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,51.5
+104,2017-07-09,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+105,2017-07-16,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+106,2017-07-23,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+107,2017-07-30,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+108,2017-08-06,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+109,2017-08-13,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+110,2017-08-20,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+111,2017-08-27,71,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,73.13
+112,2017-09-03,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+113,2017-09-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+114,2017-09-17,92,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,94.76
+115,2017-09-24,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+116,2017-10-01,94,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,96.82
+117,2017-10-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+118,2017-10-15,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+119,2017-10-22,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+120,2017-10-29,46,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,47.38
+121,2017-11-05,44,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,45.32
+122,2017-11-12,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+123,2017-11-19,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+124,2017-11-26,44,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,45.32
+125,2017-12-03,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+126,2017-12-10,44,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,45.32
+127,2017-12-17,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+128,2017-12-24,49,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,50.47
+129,2017-12-31,47,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,48.41
+130,2018-01-07,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+131,2018-01-14,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+132,2018-01-21,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+133,2018-01-28,86,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,88.58
+134,2018-02-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+135,2018-02-11,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+136,2018-02-18,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+137,2018-02-25,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+138,2018-03-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+139,2018-03-11,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+140,2018-03-18,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+141,2018-03-25,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+142,2018-04-01,44,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,45.32
+143,2018-04-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+144,2018-04-15,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+145,2018-04-22,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+146,2018-04-29,45,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,46.35
+147,2018-05-06,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+148,2018-05-13,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+149,2018-05-20,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+150,2018-05-27,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+151,2018-06-03,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+152,2018-06-10,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+153,2018-06-17,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+154,2018-06-24,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+155,2018-07-01,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+156,2018-07-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+157,2018-07-15,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+158,2018-07-22,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+159,2018-07-29,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+160,2018-08-05,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+161,2018-08-12,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+162,2018-08-19,44,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,45.32
+163,2018-08-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+164,2018-09-02,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+165,2018-09-09,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+166,2018-09-16,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+167,2018-09-23,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+168,2018-09-30,64,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,65.92
+169,2018-10-07,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+170,2018-10-14,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+171,2018-10-21,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+172,2018-10-28,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+173,2018-11-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+174,2018-11-11,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+175,2018-11-18,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+176,2018-11-25,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+177,2018-12-02,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+178,2018-12-09,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+179,2018-12-16,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+180,2018-12-23,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+181,2018-12-30,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+182,2019-01-06,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+183,2019-01-13,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+184,2019-01-20,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+185,2019-01-27,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+186,2019-02-03,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+187,2019-02-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+188,2019-02-17,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+189,2019-02-24,41,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,42.23
+190,2019-03-03,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+191,2019-03-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+192,2019-03-17,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+193,2019-03-24,83,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,85.49
+194,2019-03-31,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+195,2019-04-07,84,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,86.52
+196,2019-04-14,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+197,2019-04-21,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+198,2019-04-28,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+199,2019-05-05,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+200,2019-05-12,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+201,2019-05-19,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+202,2019-05-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+203,2019-06-02,41,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,42.23
+204,2019-06-09,61,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,62.83
+205,2019-06-16,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+206,2019-06-23,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+207,2019-06-30,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+208,2019-07-07,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+209,2019-07-14,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+210,2019-07-21,43,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,44.29
+211,2019-07-28,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+212,2019-08-04,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+213,2019-08-11,42,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,43.26
+214,2019-08-18,82,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,84.46
+215,2019-08-25,41,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,42.23
+216,2019-09-01,40,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,41.2
+217,2019-09-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+218,2019-09-15,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+219,2019-09-22,40,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,41.2
+220,2019-09-29,40,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,41.2
+221,2019-10-06,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+222,2019-10-13,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+223,2019-10-20,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+224,2019-10-27,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+225,2019-11-03,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+226,2019-11-10,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+227,2019-11-17,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+228,2019-11-24,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+229,2019-12-01,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+230,2019-12-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+231,2019-12-15,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+232,2019-12-22,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+233,2019-12-29,41,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,42.23
+234,2020-01-05,39,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,40.17
+235,2020-01-12,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+236,2020-01-19,38,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,39.14
+237,2020-01-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+238,2020-02-02,37,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,38.11
+239,2020-02-09,37,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,38.11
+240,2020-02-16,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+241,2020-02-23,73,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,75.19
+242,2020-03-01,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+243,2020-03-08,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+244,2020-03-15,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+245,2020-03-22,34,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,35.02
+246,2020-03-29,34,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,35.02
+247,2020-04-05,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+248,2020-04-12,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+249,2020-04-19,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+250,2020-04-26,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+251,2020-05-03,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+252,2020-05-10,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+253,2020-05-17,34,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,35.02
+254,2020-05-24,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+255,2020-05-31,34,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,35.02
+256,2020-06-07,34,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,35.02
+257,2020-06-14,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+258,2020-06-21,35,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,36.05
+259,2020-06-28,0,False,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
+260,2020-07-05,0,True,Events,Facebook Event Cover,Facebook Event Cover template,23.076923076923077,230.76923076923077,1438,103,0.0
