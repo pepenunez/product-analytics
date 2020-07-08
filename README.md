@@ -5,3 +5,13 @@ Packages
 
 Google trends - pytrend | pyp|  https://pypi.org/project/pytrends/#interest-over-time
 Google Adwors - googleads | conda | https://github.com/googleads/googleads-python-lib
+
+# Assumptions
+
+- + number of templates --> + customer satisfaction
+- Interest of canva users == Interesta of google users
+
+# Recommendations
+
+
+# Next steps | Further analysis
