@@ -8,6 +8,9 @@ Google Adwors - googleads | conda | https://github.com/googleads/googleads-pytho
 
 # Assumptions
 
+- Exceptions: There where some keywords that didnt have trend info
+# Assumptions
+
 - + number of templates --> + customer satisfaction
 - Interest of canva users == Interesta of google users
 
