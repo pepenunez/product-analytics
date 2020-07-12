@@ -8,9 +8,13 @@
 
 - **/data**:
   - **clean-data**:
+    - **sub-categories**: This folder contains a .csv per each sub-category that we will be analysing.
+    - **categories-post.csv**: Category, Sub-category, Keyword,Search Vol (min), Search Vol (max), Number of templates
+    - **categories-post.xlsx**: same as categories-post.csv but in excel format.
+    - **trends-all.csv**: Date, Trend, Category, Sub-category, Keyword,Search Vol (min), Search Vol (max), Number of templates, Search Vol (avge), Search Vol, isPartial, index
   - **temp-data**:
     - **canva.txt**: https://www.canva.com/create-a-design html in txt format
-    - **categories-pre.csv**: Category,Sub-category,Keyword
+    - **categories-pre.csv**: Category, Sub-category, Keyword
 - **/presentation-resources**: This folder contains some of the resources that I've used for the presentation.
 
 - **01_data-gathering.ipynb**: The goal of this notebook is to gather, clean and manipulate all the data that we will be using during the project.
