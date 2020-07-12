@@ -1,5 +1,7 @@
-# How to use data to Product prioritization
-Work in progress
+# Data analytics for Product Management
+Data analytics Bootcamp | Ironhack, Berlin | Project #4 
+
+**GitHub repo:** 
 
 Packages
 
