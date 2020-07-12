@@ -4,6 +4,10 @@
 
 **Time frame** for the project: 1-week
 
+## Introduction
+
+For this project I wanted to see validate that data can have a direct impact on product management and product decisions. To do so, I choose a digital product that I regularly use, know and that I could think of a potential challenge that they could have in order to do my project. I decided to choose www.canva.com. Canva creates unique templates that users can use and adapt. After doing some research I've found out that they have +100 sub-categories with a total of +60.000 templates. With this project, I wanted to do an analysis that could help Canva's template team to priotitise, adapt to the upcoming trends and improve user engagement.
+
 ## File structure
 
 - **/data**:
@@ -22,10 +26,6 @@
 - **02_data-analysis.ipynb**: The goal of this notebook is to explore the data, identify interesting insights and perform the analysis.
 - **presentation.pdf**: This is the presentation with the approach, main takeaways and recommendations.
 - **tableau**: The goal is to visualize the analysis performed. There are some graphs that are not in any other place. 
-
-## Introduction
-
-For this project I wanted to see validate that data can have a direct impact on product management and product decisions. To do so, I choose a digital product that I regularly use, know and that I could think of a potential challenge that they could have in order to do my project. I decided to choose www.canva.com. Canva creates unique templates that users can use and adapt. After doing some research I've found out that they have +100 sub-categories with a total of +60.000 templates. With this project, I wanted to do an analysis that could help Canva's template team to priotitise, adapt to the upcoming trends and improve user engagement.
 
 ## Initial hypothesis
 
