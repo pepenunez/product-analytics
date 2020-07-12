@@ -6,8 +6,17 @@
 
 ## File structure
 
-- /data:
+- **/data**:
+  - **clean-data**:
+  - **temp-data**:
+    - **canva.txt**: https://www.canva.com/create-a-design html in txt format
+    - **categories-pre.csv**: Category,Sub-category,Keyword
+- **/presentation-resources**: This folder contains some of the resources that I've used for the presentation.
 
+- **01_data-gathering.ipynb**: The goal of this notebook is to gather, clean and manipulate all the data that we will be using during the project.
+- **02_data-analysis.ipynb**: The goal of this notebook is to explore the data, identify interesting insights and perform the analysis.
+- **presentation.pdf**: This is the presentation with the approach, main takeaways and recommendations.
+- **tableau**: The goal is to visualize the analysis performed. There are some graphs that are not in any other place. 
 
 ## Introduction
 
