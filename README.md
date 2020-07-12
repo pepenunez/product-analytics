@@ -65,5 +65,5 @@ There is a moderate positive correlation between the Search Volume (google) and 
 
 ## Other links
 
-- [Tableau]: (https://public.tableau.com/profile/pepenunez#!/vizhome/UsingDatainProductManagement/SearchVolumebyCategory)
-- [Canva]: (https://www.canva.com/create-a-design)
+- [Tableau](https://public.tableau.com/profile/pepenunez#!/vizhome/UsingDatainProductManagement/SearchVolumebyCategory)
+- [Canva](https://www.canva.com/create-a-design)
