@@ -47,8 +47,9 @@ For this project I wanted to see validate that data can have a direct impact on 
 
 There is a moderate positive correlation between the Search Volume (google) and the Number of templates. The model can explain 35% of the variance of the Number of templates. It is recommended to analyse which are the other factors that are influencing to the correlation. 
 
-![linear regression](http://url/to/img.png)
+![linear regression](https://github.com/pepenunez/project-4/blob/master/Presentation-resources/linear-regression.png)
 
+![linear regression recommendation](https://github.com/pepenunez/project-4/blob/master/Presentation-resources/linear-regression-recommendation.png)
 
 ## Recommendations
 
