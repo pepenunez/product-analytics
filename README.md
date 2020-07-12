@@ -43,8 +43,11 @@ For this project I wanted to see validate that data can have a direct impact on 
 2. Google trends (API) | Google trends - pytrend | pyp|  https://pypi.org/project/pytrends/#interest-over-time
 3. Google Adwords | Google Adwors - googleads | conda | https://github.com/googleads/googleads-python-lib
 
-## Main takeaways
+## Main findings
 
+There is a moderate positive correlation between the Search Volume (google) and the Number of templates. The model can explain 35% of the variance of the Number of templates. It is recommended to analyse which are the other factors that are influencing to the correlation. 
+
+![linear regression](http://url/to/img.png)
 
 
 ## Recommendations
