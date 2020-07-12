@@ -49,11 +49,12 @@ There is a moderate positive correlation between the Search Volume (google) and 
 
 ![linear regression](https://github.com/pepenunez/project-4/blob/master/Presentation-resources/linear-regression.png)
 
-![linear regression recommendation](https://github.com/pepenunez/project-4/blob/master/Presentation-resources/linear-regression-recommendation.png)
-
 ## Recommendations
 
 - Prioritise and Analyse in-depth the subcategories in 'priorities.cvs'.  
+
+![linear regression recommendation](https://github.com/pepenunez/project-4/blob/master/Presentation-resources/linear-regression-recommendation.png)
+
 - A/B test displaying category by Search Volume (https://www.canva.com/create-a-design)
 - Adapt priorities and displays to seasonality 
 
@@ -61,18 +62,4 @@ There is a moderate positive correlation between the Search Volume (google) and 
 
 - Classify actual sub-categories by growth phase so we could visually detect which are the categories where we should be prioritising.
 - Spot new trends by searching for similar keywords  
-
-## Particularities
-
-- There where some keywords that didnt have trend info.
-
-## Goals and Requirements for the project
-The **goal** of this project is to practice creating and interpreting different types of visualizations using real world data as well as statistical analysis.
-
-The **technical requirements** for this project are as follows:
-
-- Select a dataset or multiple dataset from a public source.
-- Create Jupyter notebooks to analyze the data
-- Using your data, create a minimum of 4 types of plots (ie: scatter plot, histogram, box plot and bar graph).
-- Explain what insight or information is inferred from these visualizations.
 
