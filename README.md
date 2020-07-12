@@ -11,6 +11,7 @@
     - **sub-categories**: This folder contains a .csv per each sub-category that we will be analysing.
     - **categories-post.csv**: Category, Sub-category, Keyword,Search Vol (min), Search Vol (max), Number of templates
     - **categories-post.xlsx**: same as categories-post.csv but in excel format.
+    - **priotities.csv**: Sub-category, Search Vol, Recommended templates, Number of templates, Templates to create
     - **trends-all.csv**: Date, Trend, Category, Sub-category, Keyword,Search Vol (min), Search Vol (max), Number of templates, Search Vol (avge), Search Vol, isPartial, index
   - **temp-data**:
     - **canva.txt**: https://www.canva.com/create-a-design html in txt format
