@@ -63,3 +63,7 @@ There is a moderate positive correlation between the Search Volume (google) and 
 - Classify actual sub-categories by growth phase so we could visually detect which are the categories where we should be prioritising.
 - Spot new trends by searching for similar keywords  
 
+## Other links
+
+- [Tableau]: (https://public.tableau.com/profile/pepenunez#!/vizhome/UsingDatainProductManagement/SearchVolumebyCategory)
+- [Canva]: (https://www.canva.com/create-a-design)
