@@ -2,7 +2,7 @@
 
 **GitHub repo:** https://github.com/pepenunez/project-4
 
-**Time frame** for the project: 1-week
+**Time frame:** 1-week
 
 ## Introduction
 
