@@ -1,4 +1,4 @@
-# Data analytics for Product Management
+# Data Analytics for Product Management
 
 **GitHub repo:** https://github.com/pepenunez/project-4
 
