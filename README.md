@@ -1,6 +1,6 @@
 # Data Analytics for Product Management
 
-**GitHub repo:** https://github.com/pepenunez/project-4
+**GitHub repo:** https://github.com/pepenunez/product-analytics
 
 **Time frame:** 1-week
 
